@@ -172,29 +172,27 @@ Tools    : VS Code · IntelliJ IDEA · Git · GitHub
 
 ## 🗺️ Learning Roadmap
 
-```mermaid
-flowchart LR
-    A([Start]) --> B[HTML and CSS]
-    B --> C[JavaScript]
-    C --> D[Core Java]
-    D --> E[DSA and SQL]
-    E --> F[Spring Boot]
-    F --> G[React.js]
-    G --> H[REST APIs]
-    H --> I([Full-Stack Projects])
+<div align="center">
 
-    style A fill:#00ff41,stroke:#00ff41,color:#000
-    style I fill:#00ff41,stroke:#00ff41,color:#000
-    style B fill:#000,stroke:#00ff41,color:#00ff41
-    style C fill:#000,stroke:#00ff41,color:#00ff41
-    style D fill:#003b0f,stroke:#00ff41,stroke-width:3px,color:#fff
-    style E fill:#000,stroke:#3a5f46,color:#8b949e
-    style F fill:#000,stroke:#3a5f46,color:#8b949e
-    style G fill:#000,stroke:#3a5f46,color:#8b949e
-    style H fill:#000,stroke:#3a5f46,color:#8b949e
-```
+<img src="https://img.shields.io/badge/01-HTML%20%26%20CSS-00ff41?style=flat-square&labelColor=000000" alt="HTML & CSS" />
+&nbsp;➜&nbsp;
+<img src="https://img.shields.io/badge/02-JavaScript-00ff41?style=flat-square&labelColor=000000" alt="JavaScript" />
+&nbsp;➜&nbsp;
+<img src="https://img.shields.io/badge/03-Core%20Java-1f8a3c?style=flat-square&labelColor=000000" alt="Core Java" />
+&nbsp;➜&nbsp;
+<img src="https://img.shields.io/badge/04-DSA%20%26%20SQL-2d333b?style=flat-square&labelColor=000000" alt="DSA & SQL" />
+&nbsp;➜&nbsp;
+<img src="https://img.shields.io/badge/05-Spring%20Boot-2d333b?style=flat-square&labelColor=000000" alt="Spring Boot" />
+&nbsp;➜&nbsp;
+<img src="https://img.shields.io/badge/06-React.js-2d333b?style=flat-square&labelColor=000000" alt="React.js" />
+&nbsp;➜&nbsp;
+<img src="https://img.shields.io/badge/07-REST%20APIs-2d333b?style=flat-square&labelColor=000000" alt="REST APIs" />
+&nbsp;➜&nbsp;
+<img src="https://img.shields.io/badge/08-Projects-2d333b?style=flat-square&labelColor=000000" alt="Projects" />
 
-<sub>🟢 Completed &nbsp;·&nbsp; 🟩 In progress (Core Java) &nbsp;·&nbsp; ⬛ Upcoming</sub>
+</div>
+
+<div align="center"><sub>Bright green = completed &nbsp;·&nbsp; Dark green = in progress &nbsp;·&nbsp; Grey = upcoming</sub></div>
 
 <br/>
 
@@ -202,11 +200,11 @@ flowchart LR
 |:-:|:--|:--|:-:|
 | **01** | Frontend Basics | HTML5, CSS3, Responsive Design, Bootstrap | ✅ |
 | **02** | JavaScript | ES6+, DOM, Events, Async JS | ✅ |
-| **03** | Core Java | OOP, Collections, Exceptions, Multithreading, JDBC | 🟩 |
-| **04** | DSA and Database | Data Structures, Algorithms, SQL, MySQL | ⬜ |
-| **05** | Backend | Spring Framework, Spring Boot, REST APIs, Hibernate/JPA | ⬜ |
-| **06** | Modern Frontend | React.js, Tailwind CSS, API integration | ⬜ |
-| **07** | Full-Stack Projects | Auth, CRUD apps, deployment, Git workflow | ⬜ |
+| **03** | Core Java | OOP, Collections, Exceptions, Multithreading, JDBC | ✅ |
+| **04** | DSA and Database | Data Structures, Algorithms, SQL, MySQL | ✅ |
+| **05** | Backend | Spring Framework, Spring Boot, REST APIs, Hibernate/JPA | ✅ |
+| **06** | Modern Frontend | React.js, Tailwind CSS, API integration | ✅ |
+| **07** | Full-Stack Projects | Auth, CRUD apps, deployment, Git workflow | ✅ |
 
 <br/>
 
@@ -251,6 +249,11 @@ OPTIONAL: extra stats cards (free public servers, may show errors). Remove this 
 I'm always open to collaboration, learning from other developers and discussing new ideas.
 
 <div align="center">
+
+<a href="https://github.com/prahlad78"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="56" height="56" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/prahlad-thakur/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="56" height="56" alt="LinkedIn" /></a>
+
+<br/><br/>
 
 <a href="https://github.com/prahlad78"><img src="https://img.shields.io/badge/GitHub-prahlad78-000000?style=for-the-badge&logo=github&logoColor=00ff41" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/prahlad-thakur/"><img src="https://img.shields.io/badge/LinkedIn-Prahlad%20Thakur-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41" alt="LinkedIn" /></a>
