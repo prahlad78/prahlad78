@@ -1,125 +1,90 @@
-# 🔴 PRAHLAD THAKUR
+<!-- HEADER -->
+<div align="center">
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║  SYSTEM BOOTING...                                          ║
-║  ████████████████████████████████████████ 100%             ║
-║                                                              ║
-║  > ACCESS GRANTED                                           ║
-║  > USER: PRAHLAD_THakur                                     ║
-║  > STATUS: ONLINE ●                                         ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,100:e11d48&text=Prahlad%20Thakur&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Java%20%C2%B7%20JavaScript&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Prahlad Thakur" />
 
-<h3 align="center">🔴 FULL-STACK DEVELOPER | JAVA DEVELOPER 🔴</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1000&color=E11D48&center=true&vCenter=true&width=640&lines=Building+clean+and+scalable+web+applications;Java+%7C+JavaScript+%7C+HTML+%7C+CSS;Learning+something+new+every+day" alt="Typing intro" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Initializing+Developer+Mode...;Hello%2C+I'm+Prahlad+Thakur;Java+%7C+JavaScript+%7C+HTML+%7C+CSS;Building+Projects+%7C+Learning+Every+Day;System+Status%3A+ONLINE+%F0%9F%94%B4" />
-</p>
+<br/>
 
----
+<a href="https://github.com/prahladthakur"><img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/prahlad-thakur/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=e11d48" alt="LinkedIn" /></a>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Learning%20%26%20Building-e11d48?style=flat-square&labelColor=0d1117" alt="Status" />
 
-## `root@prahlad:~$ whoami`
+</div>
 
-```bash
-> Name        : Prahlad Thakur
-> Role        : Full-Stack Developer
-> Focus       : Web Development + Java
-> Editor      : VS Code
-> Environment : Windows
-> Status      : Learning & Building
-```
+<br/>
 
----
+## About
 
-## `root@prahlad:~$ skills`
+I'm a **Full-Stack Developer** focused on web development and Java. I enjoy turning ideas into clean, responsive and well-structured projects, and I'm steadily growing from strong frontend fundamentals toward complete full-stack applications.
 
-<p align="center">
+| | |
+|---|---|
+| **Role** | Full-Stack Developer |
+| **Focus** | Web Development · Core Java |
+| **Tools** | VS Code · Git · GitHub |
+| **Currently** | Learning and building every day |
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,bootstrap,wordpress,git,github,vscode" />
+<br/>
 
-</p>
+## Tech Stack
 
----
+<div align="center">
 
-## `root@prahlad:~$ projects`
+<img src="https://skillicons.dev/icons?i=html,css,js,java,bootstrap,wordpress,git,github,vscode&theme=dark" alt="Tech stack" />
 
-```text
-┌────────────────────────────────────────────────────┐
-│                                                    │
-│  [01] 🌐 Portfolio Website                         │
-│      Personal developer portfolio                  │
-│                                                    │
-│  [02] 🚲 Thakur Bicycle Website                    │
-│      Bicycle shop website                          │
-│                                                    │
-│  [03] ☕ Java Projects                             │
-│      Core Java learning & practice                 │
-│                                                    │
-│  [04] ⚡ JavaScript Projects                       │
-│      DOM, functions, events & interactive UI       │
-│                                                    │
-└────────────────────────────────────────────────────┘
-```
+</div>
 
----
+<br/>
 
-## `root@prahlad:~$ github_stats`
+## Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prahladthakur&show_icons=true&theme=dark&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=0d0d0d" />
-</p>
+| Project | Description | Stack |
+|:--|:--|:--|
+| **Portfolio Website** | Personal developer portfolio showcasing my work and skills | `HTML` `CSS` `JavaScript` |
+| **Thakur Bicycle** | Responsive website for a bicycle shop | `HTML` `CSS` `JavaScript` |
+| **Java Projects** | Core Java concepts, practice programs and mini projects | `Java` |
+| **JavaScript Projects** | DOM manipulation, functions, events and interactive UI | `JavaScript` |
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prahladthakur&layout=compact&theme=dark&hide_border=true&title_color=ff0000&text_color=ffffff&bg_color=0d0d0d" />
-</p>
+<br/>
 
----
+## GitHub Stats
 
-## `root@prahlad:~$ current_mission`
+<div align="center">
 
-```text
-[████████████████████░░] 90%
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=prahladthakur&show_icons=true&theme=transparent&hide_border=true&title_color=e11d48&icon_color=e11d48&text_color=8b949e&bg_color=00000000" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prahladthakur&layout=compact&theme=transparent&hide_border=true&title_color=e11d48&text_color=8b949e&bg_color=00000000" alt="Top languages" />
 
-> Master Java
-> Master JavaScript
-> Learn React
-> Learn Backend Development
-> Build Full-Stack Projects
-> Become a Full-Stack Developer
-```
+</div>
 
----
+<br/>
 
-## `root@prahlad:~$ connect`
+## Roadmap
 
-<p align="center">
+- [x] HTML, CSS and responsive design
+- [x] JavaScript fundamentals and DOM
+- [ ] Master Core Java
+- [ ] Advanced JavaScript
+- [ ] React
+- [ ] Backend development
+- [ ] Full-stack projects
 
-<a href="https://github.com/prahladthakur">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<br/>
 
-<a href="https://www.linkedin.com/in/prahlad-thakur/">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=red"/>
-</a>
+## Let's Connect
 
-</p>
+I'm always happy to collaborate, learn from other developers and discuss new ideas.
 
----
+<div align="center">
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║  > CONNECTION ESTABLISHED                                   ║
-║  > KEEP BUILDING                                             ║
-║  > KEEP LEARNING                                             ║
-║  > NEVER STOP CODING                                         ║
-║                                                              ║
-║                 🔴 SYSTEM STATUS: ONLINE                    ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<a href="https://github.com/prahladthakur"><img src="https://img.shields.io/badge/GitHub-prahladthakur-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/prahlad-thakur/"><img src="https://img.shields.io/badge/LinkedIn-Prahlad%20Thakur-0d1117?style=for-the-badge&logo=linkedin&logoColor=e11d48" alt="LinkedIn" /></a>
 
-<p align="center">
-  <b>「 Code. Build. Break. Fix. Repeat. 」</b>
-</p>
+<br/><br/>
+
+<sub><i>Code. Build. Improve. Repeat.</i></sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:e11d48,100:0d1117&section=footer" width="100%" alt="footer" />
+
+</div>
