@@ -180,15 +180,13 @@
 |:-:|:-:|:-:|
 | **01** | **Frontend Basics**<br/><sub>HTML5, CSS3, Responsive Design, Bootstrap</sub> | ✅ |
 | **02** | **JavaScript**<br/><sub>ES6+, DOM, Events, Async JS</sub> | ✅ |
-| **03** | **Core Java**<br/><sub>OOP, Collections, Exceptions, Multithreading, JDBC</sub> | 🟩 |
-| **04** | **DSA &amp; Database**<br/><sub>Data Structures, Algorithms, SQL, MySQL</sub> | ⬜ |
-| **05** | **Backend**<br/><sub>Spring Framework, Spring Boot, REST APIs, Hibernate/JPA</sub> | ⬜ |
-| **06** | **Modern Frontend**<br/><sub>React.js, Tailwind CSS, API integration</sub> | ⬜ |
-| **07** | **Full-Stack Projects**<br/><sub>Auth, CRUD apps, deployment, Git workflow</sub> | ⬜ |
+| **03** | **Core Java**<br/><sub>OOP, Collections, Exceptions, Multithreading, JDBC</sub> | ✅ |
+| **04** | **DSA &amp; Database**<br/><sub>Data Structures, Algorithms, SQL, MySQL</sub> | ✅ |
+| **05** | **Backend**<br/><sub>Spring Framework, Spring Boot, REST APIs, Hibernate/JPA</sub> | ✅ |
+| **06** | **Modern Frontend**<br/><sub>React.js, Tailwind CSS, API integration</sub> | ✅ |
+| **07** | **Full-Stack Projects**<br/><sub>Auth, CRUD apps, deployment, Git workflow</sub> | ✅ |
 
 </div>
-
-<p align="center"><sub>✅ Completed &nbsp;·&nbsp; 🟩 In progress &nbsp;·&nbsp; ⬜ Upcoming</sub></p>
 
 <br/>
 
