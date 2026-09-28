@@ -156,23 +156,27 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/01-HTML%20%26%20CSS-00ff41?style=for-the-badge&labelColor=000000&logo=html5&logoColor=00ff41" alt="HTML &amp; CSS" />
-&nbsp;➜&nbsp;
+<picture><source media="(max-width: 700px)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=500&pause=150&color=00FF41&center=true&vCenter=true&multiline=true&repeat=false&width=380&height=66&lines=HTML5%2C+CSS3%2C+Responsive+Design%2C+Bootstrap;%5B+COMPLETED+%5D;%E2%96%BC"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=800&pause=100&color=00FF41&center=true&vCenter=true&repeat=false&width=44&height=40&lines=%E2%9E%9C" alt="next" /></picture>
 <img src="https://img.shields.io/badge/02-JavaScript-00ff41?style=for-the-badge&labelColor=000000&logo=javascript&logoColor=00ff41" alt="JavaScript" />
-&nbsp;➜&nbsp;
+<picture><source media="(max-width: 700px)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=500&pause=150&color=00FF41&center=true&vCenter=true&multiline=true&repeat=false&width=380&height=66&lines=ES6%2B%2C+DOM%2C+Events%2C+Async+JS;%5B+COMPLETED+%5D;%E2%96%BC"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=800&pause=100&color=00FF41&center=true&vCenter=true&repeat=false&width=44&height=40&lines=%E2%9E%9C" alt="next" /></picture>
 <img src="https://img.shields.io/badge/03-Core%20Java-00ff41?style=for-the-badge&labelColor=000000&logo=openjdk&logoColor=00ff41" alt="Core Java" />
-&nbsp;➜&nbsp;
+<picture><source media="(max-width: 700px)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=500&pause=150&color=00FF41&center=true&vCenter=true&multiline=true&repeat=false&width=380&height=66&lines=OOP%2C+Collections%2C+Exceptions%2C+Multithreading%2C+JDBC;%5B+IN+PROGRESS+%5D;%E2%96%BC"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=800&pause=100&color=00FF41&center=true&vCenter=true&repeat=false&width=44&height=40&lines=%E2%9E%9C" alt="next" /></picture>
 <img src="https://img.shields.io/badge/04-DSA%20%26%20SQL-00ff41?style=for-the-badge&labelColor=000000&logo=sqlite&logoColor=00ff41" alt="DSA &amp; SQL" />
-&nbsp;➜&nbsp;
+<picture><source media="(max-width: 700px)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=500&pause=150&color=00FF41&center=true&vCenter=true&multiline=true&repeat=false&width=380&height=66&lines=Data+Structures%2C+Algorithms%2C+SQL%2C+MySQL;%5B+UPCOMING+%5D;%E2%96%BC"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=800&pause=100&color=00FF41&center=true&vCenter=true&repeat=false&width=44&height=40&lines=%E2%9E%9C" alt="next" /></picture>
 <img src="https://img.shields.io/badge/05-Spring%20Boot-00ff41?style=for-the-badge&labelColor=000000&logo=springboot&logoColor=00ff41" alt="Spring Boot" />
-&nbsp;➜&nbsp;
+<picture><source media="(max-width: 700px)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=500&pause=150&color=00FF41&center=true&vCenter=true&multiline=true&repeat=false&width=380&height=66&lines=Spring+Framework%2C+Spring+Boot%2C+Hibernate%2FJPA;%5B+UPCOMING+%5D;%E2%96%BC"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=800&pause=100&color=00FF41&center=true&vCenter=true&repeat=false&width=44&height=40&lines=%E2%9E%9C" alt="next" /></picture>
 <img src="https://img.shields.io/badge/06-React.js-00ff41?style=for-the-badge&labelColor=000000&logo=react&logoColor=00ff41" alt="React.js" />
-&nbsp;➜&nbsp;
+<picture><source media="(max-width: 700px)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=500&pause=150&color=00FF41&center=true&vCenter=true&multiline=true&repeat=false&width=380&height=66&lines=React.js%2C+Tailwind+CSS%2C+API+integration;%5B+UPCOMING+%5D;%E2%96%BC"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=800&pause=100&color=00FF41&center=true&vCenter=true&repeat=false&width=44&height=40&lines=%E2%9E%9C" alt="next" /></picture>
 <img src="https://img.shields.io/badge/07-REST%20APIs-00ff41?style=for-the-badge&labelColor=000000&logo=postman&logoColor=00ff41" alt="REST APIs" />
-&nbsp;➜&nbsp;
+<picture><source media="(max-width: 700px)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=500&pause=150&color=00FF41&center=true&vCenter=true&multiline=true&repeat=false&width=380&height=66&lines=Building+and+consuming+APIs%2C+JSON%2C+Postman;%5B+UPCOMING+%5D;%E2%96%BC"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=800&pause=100&color=00FF41&center=true&vCenter=true&repeat=false&width=44&height=40&lines=%E2%9E%9C" alt="next" /></picture>
 <img src="https://img.shields.io/badge/08-Projects-00ff41?style=for-the-badge&labelColor=000000&logo=git&logoColor=00ff41" alt="Projects" />
+<picture><source media="(max-width: 700px)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=500&pause=150&color=00FF41&center=true&vCenter=true&multiline=true&repeat=false&width=380&height=48&lines=Auth%2C+CRUD+apps%2C+deployment%2C+Git+workflow;%5B+UPCOMING+%5D"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=1&duration=100&pause=100&color=00FF41&repeat=false&width=1&height=1&lines=." alt="" /></picture>
 </p>
 
 <div align="center">
+<details>
+<summary><b>View roadmap details</b></summary>
+<br/>
 
 | Step | Focus &amp; Topics | Status |
 |:-:|:-:|:-:|
@@ -185,9 +189,10 @@
 | **07** | **REST APIs**<br/><sub>Building and consuming APIs, JSON, Postman</sub> | ⬜ |
 | **08** | **Projects**<br/><sub>Auth, CRUD apps, deployment, Git workflow</sub> | ⬜ |
 
-</div>
+<sub>✅ Completed &nbsp;·&nbsp; 🟩 In progress &nbsp;·&nbsp; ⬜ Upcoming</sub>
 
-<p align="center"><sub>✅ Completed &nbsp;·&nbsp; 🟩 In progress &nbsp;·&nbsp; ⬜ Upcoming</sub></p>
+</details>
+</div>
 
 <br/>
 
