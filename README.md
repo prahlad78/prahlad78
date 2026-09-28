@@ -155,66 +155,39 @@
 <h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2200&pause=1000&color=00FF41&center=true&vCenter=true&repeat=false&width=540&height=50&letterSpacing=4px&lines=%5B+LEARNING+ROADMAP+%5D" alt="LEARNING ROADMAP" /></h2>
 
 <p align="center">
-<img src="https://img.shields.io/badge/01-HTML%20%26%20CSS-00ff41?style=for-the-badge&labelColor=000000&logo=html5&logoColor=00ff41" alt="HTML &amp; CSS" /><br/>
-<sub>HTML5, CSS3, Responsive Design, Bootstrap</sub><br/>
-<sub>✅ Completed</sub>
+<img src="https://img.shields.io/badge/01-HTML%20%26%20CSS-00ff41?style=for-the-badge&labelColor=000000&logo=html5&logoColor=00ff41" alt="HTML &amp; CSS" />
+&nbsp;➜&nbsp;
+<img src="https://img.shields.io/badge/02-JavaScript-00ff41?style=for-the-badge&labelColor=000000&logo=javascript&logoColor=00ff41" alt="JavaScript" />
+&nbsp;➜&nbsp;
+<img src="https://img.shields.io/badge/03-Core%20Java-00ff41?style=for-the-badge&labelColor=000000&logo=openjdk&logoColor=00ff41" alt="Core Java" />
+&nbsp;➜&nbsp;
+<img src="https://img.shields.io/badge/04-DSA%20%26%20SQL-00ff41?style=for-the-badge&labelColor=000000&logo=sqlite&logoColor=00ff41" alt="DSA &amp; SQL" />
+&nbsp;➜&nbsp;
+<img src="https://img.shields.io/badge/05-Spring%20Boot-00ff41?style=for-the-badge&labelColor=000000&logo=springboot&logoColor=00ff41" alt="Spring Boot" />
+&nbsp;➜&nbsp;
+<img src="https://img.shields.io/badge/06-React.js-00ff41?style=for-the-badge&labelColor=000000&logo=react&logoColor=00ff41" alt="React.js" />
+&nbsp;➜&nbsp;
+<img src="https://img.shields.io/badge/07-REST%20APIs-00ff41?style=for-the-badge&labelColor=000000&logo=postman&logoColor=00ff41" alt="REST APIs" />
+&nbsp;➜&nbsp;
+<img src="https://img.shields.io/badge/08-Projects-00ff41?style=for-the-badge&labelColor=000000&logo=git&logoColor=00ff41" alt="Projects" />
 </p>
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=1000&color=00FF41&center=true&vCenter=true&repeat=false&width=80&height=34&letterSpacing=0px&lines=%E2%96%BC" alt="down" /></p>
+<div align="center">
 
-<p align="center">
-<img src="https://img.shields.io/badge/02-JavaScript-00ff41?style=for-the-badge&labelColor=000000&logo=javascript&logoColor=00ff41" alt="JavaScript" /><br/>
-<sub>ES6+, DOM, Events, Async JS</sub><br/>
-<sub>✅ Completed</sub>
-</p>
+| Step | Focus &amp; Topics | Status |
+|:-:|:-:|:-:|
+| **01** | **HTML &amp; CSS**<br/><sub>HTML5, CSS3, Responsive Design, Bootstrap</sub> | ✅ |
+| **02** | **JavaScript**<br/><sub>ES6+, DOM, Events, Async JS</sub> | ✅ |
+| **03** | **Core Java**<br/><sub>OOP, Collections, Exceptions, Multithreading, JDBC</sub> | 🟩 |
+| **04** | **DSA &amp; SQL**<br/><sub>Data Structures, Algorithms, SQL, MySQL</sub> | ⬜ |
+| **05** | **Spring Boot**<br/><sub>Spring Framework, Spring Boot, Hibernate/JPA</sub> | ⬜ |
+| **06** | **React.js**<br/><sub>React.js, Tailwind CSS, API integration</sub> | ⬜ |
+| **07** | **REST APIs**<br/><sub>Building and consuming APIs, JSON, Postman</sub> | ⬜ |
+| **08** | **Projects**<br/><sub>Auth, CRUD apps, deployment, Git workflow</sub> | ⬜ |
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=1000&color=00FF41&center=true&vCenter=true&repeat=false&width=80&height=34&letterSpacing=0px&lines=%E2%96%BC" alt="down" /></p>
+</div>
 
-<p align="center">
-<img src="https://img.shields.io/badge/03-Core%20Java-00ff41?style=for-the-badge&labelColor=000000&logo=openjdk&logoColor=00ff41" alt="Core Java" /><br/>
-<sub>OOP, Collections, Exceptions, Multithreading, JDBC</sub><br/>
-<sub>🟩 In progress</sub>
-</p>
-
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=1000&color=00FF41&center=true&vCenter=true&repeat=false&width=80&height=34&letterSpacing=0px&lines=%E2%96%BC" alt="down" /></p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/04-DSA%20%26%20SQL-00ff41?style=for-the-badge&labelColor=000000&logo=sqlite&logoColor=00ff41" alt="DSA &amp; SQL" /><br/>
-<sub>Data Structures, Algorithms, SQL, MySQL</sub><br/>
-<sub>⬜ Upcoming</sub>
-</p>
-
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=1000&color=00FF41&center=true&vCenter=true&repeat=false&width=80&height=34&letterSpacing=0px&lines=%E2%96%BC" alt="down" /></p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/05-Spring%20Boot-00ff41?style=for-the-badge&labelColor=000000&logo=springboot&logoColor=00ff41" alt="Spring Boot" /><br/>
-<sub>Spring Framework, Spring Boot, Hibernate/JPA</sub><br/>
-<sub>⬜ Upcoming</sub>
-</p>
-
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=1000&color=00FF41&center=true&vCenter=true&repeat=false&width=80&height=34&letterSpacing=0px&lines=%E2%96%BC" alt="down" /></p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/06-React.js-00ff41?style=for-the-badge&labelColor=000000&logo=react&logoColor=00ff41" alt="React.js" /><br/>
-<sub>React.js, Tailwind CSS, API integration</sub><br/>
-<sub>⬜ Upcoming</sub>
-</p>
-
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=1000&color=00FF41&center=true&vCenter=true&repeat=false&width=80&height=34&letterSpacing=0px&lines=%E2%96%BC" alt="down" /></p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/07-REST%20APIs-00ff41?style=for-the-badge&labelColor=000000&logo=postman&logoColor=00ff41" alt="REST APIs" /><br/>
-<sub>Building and consuming APIs, JSON, Postman</sub><br/>
-<sub>⬜ Upcoming</sub>
-</p>
-
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=1000&color=00FF41&center=true&vCenter=true&repeat=false&width=80&height=34&letterSpacing=0px&lines=%E2%96%BC" alt="down" /></p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/08-Projects-00ff41?style=for-the-badge&labelColor=000000&logo=git&logoColor=00ff41" alt="Projects" /><br/>
-<sub>Auth, CRUD apps, deployment, Git workflow</sub><br/>
-<sub>⬜ Upcoming</sub>
-</p>
+<p align="center"><sub>✅ Completed &nbsp;·&nbsp; 🟩 In progress &nbsp;·&nbsp; ⬜ Upcoming</sub></p>
 
 <br/>
 
