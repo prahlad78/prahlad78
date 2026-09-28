@@ -16,9 +16,9 @@
 <br/>
 
 <!-- ============================== ABOUT ============================== -->
-<h2 align="center">👨‍💻 About Me</h2>
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2200&pause=1000&color=00FF41&center=true&vCenter=true&repeat=false&width=348&height=50&letterSpacing=4px&lines=%5B+ABOUT+ME+%5D" alt="ABOUT ME" /></h2>
 
-<p align="justify">I'm a <b>Full-Stack Developer</b> focused on web development and Java. I build clean, responsive and well-structured applications, and I'm growing from strong frontend fundamentals toward complete full-stack development with Java, Spring Boot and React.</p>
+<p align="center">I'm a <b>Full-Stack Developer</b> focused on web development and Java. I build clean, responsive and well-structured applications, and I'm growing from strong frontend fundamentals toward complete full-stack development with Java, Spring Boot and React.</p>
 
 <div align="center">
 
@@ -35,11 +35,11 @@
 <br/>
 
 <!-- ============================== TECH STACK ============================== -->
-<h2 align="center">🧰 Tech Stack</h2>
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2200&pause=1000&color=00FF41&center=true&vCenter=true&repeat=false&width=396&height=50&letterSpacing=4px&lines=%5B+TECH+STACK+%5D" alt="TECH STACK" /></h2>
 
 <p align="center"><sub>Click any icon or badge to open its official website.</sub></p>
 
-<h3 align="center">☕ Core Java &amp; Programming</h3>
+<h3 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2200&pause=1000&color=00FF41&center=true&vCenter=true&repeat=false&width=474&height=40&letterSpacing=3px&lines=CORE+JAVA+%26+PROGRAMMING" alt="CORE JAVA &amp; PROGRAMMING" /></h3>
 
 <p align="center">
 <a href="https://www.oracle.com/java/"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" height="48" alt="java" /></a>
@@ -55,7 +55,7 @@
 <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff41" alt="Python" /></a>
 </p>
 
-<h3 align="center">🌐 Frontend Development</h3>
+<h3 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2200&pause=1000&color=00FF41&center=true&vCenter=true&repeat=false&width=420&height=40&letterSpacing=3px&lines=FRONTEND+DEVELOPMENT" alt="FRONTEND DEVELOPMENT" /></h3>
 
 <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="html" /></a>
@@ -76,7 +76,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Responsive_Design"><img src="https://img.shields.io/badge/Responsive%20Web%20Design-000000?style=for-the-badge&logo=googlechrome&logoColor=00ff41" alt="Responsive Web Design" /></a>
 </p>
 
-<h3 align="center">⚙️ Backend &amp; Database</h3>
+<h3 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2200&pause=1000&color=00FF41&center=true&vCenter=true&repeat=false&width=384&height=40&letterSpacing=3px&lines=BACKEND+%26+DATABASE" alt="BACKEND &amp; DATABASE" /></h3>
 
 <p align="center">
 <a href="https://spring.io/projects/spring-framework"><img src="https://skillicons.dev/icons?i=spring&theme=dark" width="48" height="48" alt="spring" /></a>
@@ -97,7 +97,7 @@
 <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00ff41" alt="MySQL" /></a>
 </p>
 
-<h3 align="center">🎨 Designing &amp; Creative</h3>
+<h3 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2200&pause=1000&color=00FF41&center=true&vCenter=true&repeat=false&width=420&height=40&letterSpacing=3px&lines=DESIGNING+%26+CREATIVE" alt="DESIGNING &amp; CREATIVE" /></h3>
 
 <p align="center">
 <a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps&theme=dark" width="48" height="48" alt="ps" /></a>
@@ -113,7 +113,7 @@
 <a href="https://www.getpaint.net"><img src="https://img.shields.io/badge/Paint.NET-000000?style=for-the-badge&logo=dotnet&logoColor=00ff41" alt="Paint.NET" /></a>
 </p>
 
-<h3 align="center">🛠️ Tools, CMS &amp; Marketing</h3>
+<h3 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2200&pause=1000&color=00FF41&center=true&vCenter=true&repeat=false&width=456&height=40&letterSpacing=3px&lines=TOOLS%2C+CMS+%26+MARKETING" alt="TOOLS, CMS &amp; MARKETING" /></h3>
 
 <p align="center">
 <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="git" /></a>
@@ -136,7 +136,7 @@
 <br/>
 
 <!-- ============================== PROJECTS ============================== -->
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2200&pause=1000&color=00FF41&center=true&vCenter=true&repeat=false&width=564&height=50&letterSpacing=4px&lines=%5B+FEATURED+PROJECTS+%5D" alt="FEATURED PROJECTS" /></h2>
 
 <div align="center">
 
@@ -152,46 +152,74 @@
 <br/>
 
 <!-- ============================== ROADMAP ============================== -->
-<h2 align="center">🗺️ Learning Roadmap</h2>
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2200&pause=1000&color=00FF41&center=true&vCenter=true&repeat=false&width=540&height=50&letterSpacing=4px&lines=%5B+LEARNING+ROADMAP+%5D" alt="LEARNING ROADMAP" /></h2>
 
 <p align="center">
-<img src="https://img.shields.io/badge/01-HTML%20%26%20CSS-00ff41?style=for-the-badge&labelColor=000000&logo=html5&logoColor=00ff41" alt="HTML &amp; CSS" />
-&nbsp;➜&nbsp;
-<img src="https://img.shields.io/badge/02-JavaScript-00ff41?style=for-the-badge&labelColor=000000&logo=javascript&logoColor=00ff41" alt="JavaScript" />
-&nbsp;➜&nbsp;
-<img src="https://img.shields.io/badge/03-Core%20Java-00ff41?style=for-the-badge&labelColor=000000&logo=openjdk&logoColor=00ff41" alt="Core Java" />
-&nbsp;➜&nbsp;
-<img src="https://img.shields.io/badge/04-DSA%20%26%20SQL-00ff41?style=for-the-badge&labelColor=000000&logo=sqlite&logoColor=00ff41" alt="DSA &amp; SQL" />
-&nbsp;➜&nbsp;
-<img src="https://img.shields.io/badge/05-Spring%20Boot-00ff41?style=for-the-badge&labelColor=000000&logo=springboot&logoColor=00ff41" alt="Spring Boot" />
-&nbsp;➜&nbsp;
-<img src="https://img.shields.io/badge/06-React.js-00ff41?style=for-the-badge&labelColor=000000&logo=react&logoColor=00ff41" alt="React.js" />
-&nbsp;➜&nbsp;
-<img src="https://img.shields.io/badge/07-REST%20APIs-00ff41?style=for-the-badge&labelColor=000000&logo=postman&logoColor=00ff41" alt="REST APIs" />
-&nbsp;➜&nbsp;
-<img src="https://img.shields.io/badge/08-Projects-00ff41?style=for-the-badge&labelColor=000000&logo=git&logoColor=00ff41" alt="Projects" />
+<img src="https://img.shields.io/badge/01-HTML%20%26%20CSS-00ff41?style=for-the-badge&labelColor=000000&logo=html5&logoColor=00ff41" alt="HTML &amp; CSS" /><br/>
+<sub>HTML5, CSS3, Responsive Design, Bootstrap</sub><br/>
+<sub>✅ Completed</sub>
 </p>
 
-<p align="center"><sub>Follow the path from frontend basics to full-stack Java projects.</sub></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=1000&color=00FF41&center=true&vCenter=true&repeat=false&width=80&height=34&letterSpacing=0px&lines=%E2%96%BC" alt="down" /></p>
 
-<div align="center">
+<p align="center">
+<img src="https://img.shields.io/badge/02-JavaScript-00ff41?style=for-the-badge&labelColor=000000&logo=javascript&logoColor=00ff41" alt="JavaScript" /><br/>
+<sub>ES6+, DOM, Events, Async JS</sub><br/>
+<sub>✅ Completed</sub>
+</p>
 
-| Phase | Focus &amp; Topics | Status |
-|:-:|:-:|:-:|
-| **01** | **Frontend Basics**<br/><sub>HTML5, CSS3, Responsive Design, Bootstrap</sub> | ✅ |
-| **02** | **JavaScript**<br/><sub>ES6+, DOM, Events, Async JS</sub> | ✅ |
-| **03** | **Core Java**<br/><sub>OOP, Collections, Exceptions, Multithreading, JDBC</sub> | ✅ |
-| **04** | **DSA &amp; Database**<br/><sub>Data Structures, Algorithms, SQL, MySQL</sub> | ✅ |
-| **05** | **Backend**<br/><sub>Spring Framework, Spring Boot, REST APIs, Hibernate/JPA</sub> | ✅ |
-| **06** | **Modern Frontend**<br/><sub>React.js, Tailwind CSS, API integration</sub> | ✅ |
-| **07** | **Full-Stack Projects**<br/><sub>Auth, CRUD apps, deployment, Git workflow</sub> | ✅ |
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=1000&color=00FF41&center=true&vCenter=true&repeat=false&width=80&height=34&letterSpacing=0px&lines=%E2%96%BC" alt="down" /></p>
 
-</div>
+<p align="center">
+<img src="https://img.shields.io/badge/03-Core%20Java-00ff41?style=for-the-badge&labelColor=000000&logo=openjdk&logoColor=00ff41" alt="Core Java" /><br/>
+<sub>OOP, Collections, Exceptions, Multithreading, JDBC</sub><br/>
+<sub>🟩 In progress</sub>
+</p>
+
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=1000&color=00FF41&center=true&vCenter=true&repeat=false&width=80&height=34&letterSpacing=0px&lines=%E2%96%BC" alt="down" /></p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/04-DSA%20%26%20SQL-00ff41?style=for-the-badge&labelColor=000000&logo=sqlite&logoColor=00ff41" alt="DSA &amp; SQL" /><br/>
+<sub>Data Structures, Algorithms, SQL, MySQL</sub><br/>
+<sub>⬜ Upcoming</sub>
+</p>
+
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=1000&color=00FF41&center=true&vCenter=true&repeat=false&width=80&height=34&letterSpacing=0px&lines=%E2%96%BC" alt="down" /></p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/05-Spring%20Boot-00ff41?style=for-the-badge&labelColor=000000&logo=springboot&logoColor=00ff41" alt="Spring Boot" /><br/>
+<sub>Spring Framework, Spring Boot, Hibernate/JPA</sub><br/>
+<sub>⬜ Upcoming</sub>
+</p>
+
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=1000&color=00FF41&center=true&vCenter=true&repeat=false&width=80&height=34&letterSpacing=0px&lines=%E2%96%BC" alt="down" /></p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/06-React.js-00ff41?style=for-the-badge&labelColor=000000&logo=react&logoColor=00ff41" alt="React.js" /><br/>
+<sub>React.js, Tailwind CSS, API integration</sub><br/>
+<sub>⬜ Upcoming</sub>
+</p>
+
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=1000&color=00FF41&center=true&vCenter=true&repeat=false&width=80&height=34&letterSpacing=0px&lines=%E2%96%BC" alt="down" /></p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/07-REST%20APIs-00ff41?style=for-the-badge&labelColor=000000&logo=postman&logoColor=00ff41" alt="REST APIs" /><br/>
+<sub>Building and consuming APIs, JSON, Postman</sub><br/>
+<sub>⬜ Upcoming</sub>
+</p>
+
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=1000&color=00FF41&center=true&vCenter=true&repeat=false&width=80&height=34&letterSpacing=0px&lines=%E2%96%BC" alt="down" /></p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/08-Projects-00ff41?style=for-the-badge&labelColor=000000&logo=git&logoColor=00ff41" alt="Projects" /><br/>
+<sub>Auth, CRUD apps, deployment, Git workflow</sub><br/>
+<sub>⬜ Upcoming</sub>
+</p>
 
 <br/>
 
 <!-- ============================== GITHUB ANALYTICS ============================== -->
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2200&pause=1000&color=00FF41&center=true&vCenter=true&repeat=false&width=540&height=50&letterSpacing=4px&lines=%5B+GITHUB+ANALYTICS+%5D" alt="GITHUB ANALYTICS" /></h2>
 
 <p align="center">
 <img src="https://img.shields.io/github/followers/prahlad78?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=000000&color=000000" alt="Followers" />
@@ -215,7 +243,7 @@ OPTIONAL: extra stats cards (free public servers, may show errors). Remove this 
 <br/>
 
 <!-- ============================== GOALS ============================== -->
-<h2 align="center">🎯 Current Goals</h2>
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2200&pause=1000&color=00FF41&center=true&vCenter=true&repeat=false&width=468&height=50&letterSpacing=4px&lines=%5B+CURRENT+GOALS+%5D" alt="CURRENT GOALS" /></h2>
 
 <p align="center">
 ▸ Master <b>Core Java</b> and <b>JavaScript</b><br/>
@@ -229,7 +257,7 @@ OPTIONAL: extra stats cards (free public servers, may show errors). Remove this 
 <br/>
 
 <!-- ============================== CONTACT ============================== -->
-<h2 align="center">🤝 Connect With Me</h2>
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2200&pause=1000&color=00FF41&center=true&vCenter=true&repeat=false&width=516&height=50&letterSpacing=4px&lines=%5B+CONNECT+WITH+ME+%5D" alt="CONNECT WITH ME" /></h2>
 
 <p align="center">I'm always open to collaboration, learning from other developers and discussing new ideas.</p>
 
