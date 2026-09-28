@@ -3,52 +3,49 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0d1117,50:3b0a14,100:e11d48&text=Prahlad%20Thakur&fontColor=ffffff&fontSize=56&fontAlignY=36&desc=Full-Stack%20Java%20Developer&descSize=20&descAlignY=57&animation=fadeIn" width="100%" alt="Prahlad Thakur" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=E11D48&center=true&vCenter=true&width=700&lines=%3E+initializing+developer_mode...;%3E+Core+Java+%7C+Spring+Boot+%7C+React;%3E+Frontend+%7C+Backend+%7C+Design;%3E+building.+learning.+shipping.;%3E+status%3A+ONLINE" alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=E11D48&center=true&vCenter=true&width=700&lines=Core+Java+%7C+Spring+Boot+%7C+React;Frontend+%C2%B7+Backend+%C2%B7+Design;Building.+Learning.+Shipping." alt="Intro" />
 
 <br/>
 
-<a href="https://github.com/prahladthakur"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/prahlad78"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/prahlad-thakur/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=e11d48" alt="LinkedIn" /></a>
 <img src="https://img.shields.io/badge/Learning-Full%20Stack%20Java-e11d48?style=for-the-badge&labelColor=0d1117" alt="Learning" />
-<img src="https://img.shields.io/badge/Status-Online-22c55e?style=for-the-badge&labelColor=0d1117" alt="Status" />
 
 </div>
 
 <br/>
 
-<!-- ============================== WHOAMI ============================== -->
-## `root@prahlad:~$ whoami`
+<!-- ============================== ABOUT ============================== -->
+## 👨‍💻 About Me
 
-```bash
-name        : Prahlad Thakur
-role        : Full-Stack Developer (Java)
-focus       : Core Java · Spring Boot · React · Web Development
-learning    : Core Java + Full Stack Java Course
-editor      : VS Code · IntelliJ IDEA
-os          : Windows
-status      : Learning & Building every day
+I'm a **Full-Stack Developer** focused on web development and Java. I build clean, responsive and well-structured applications, and I'm growing from strong frontend fundamentals toward complete full-stack development with Java, Spring Boot and React.
+
+```yaml
+Name     : Prahlad Thakur
+Role     : Full-Stack Developer (Java)
+Focus    : Core Java · Spring Boot · React · Web Development
+Learning : Core Java + Full Stack Java Course
+Tools    : VS Code · IntelliJ IDEA · Git · GitHub
 ```
-
-> I build clean, responsive and well-structured web applications, and I'm growing from strong frontend fundamentals toward complete full-stack development with Java.
 
 <br/>
 
-<!-- ============================== SKILL MATRIX ============================== -->
-## `root@prahlad:~$ skills --all`
+<!-- ============================== TECH STACK ============================== -->
+## 🧰 Tech Stack
 
 <details open>
-<summary><b>&nbsp;☕ &nbsp;CORE JAVA &amp; PROGRAMMING</b></summary>
+<summary><b>&nbsp;☕ &nbsp;Core Java &amp; Programming</b></summary>
 <br/>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,idea,py&theme=dark" alt="core icons" />
+<img src="https://skillicons.dev/icons?i=java,idea,py&theme=dark" alt="Core icons" />
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=e11d48" alt="Java" />
 <img src="https://img.shields.io/badge/Java%20Software%20Development-0d1117?style=for-the-badge&logo=openjdk&logoColor=e11d48" alt="Java Software Development" />
-<img src="https://img.shields.io/badge/Data%20Structures-0d1117?style=for-the-badge&logo=databricks&logoColor=e11d48" alt="Data Structures" />
+<img src="https://img.shields.io/badge/Data%20Structures-0d1117?style=for-the-badge&logo=thealgorithms&logoColor=e11d48" alt="Data Structures" />
 <img src="https://img.shields.io/badge/Algorithms-0d1117?style=for-the-badge&logo=leetcode&logoColor=e11d48" alt="Algorithms" />
 <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=e11d48" alt="Python" />
 
@@ -57,12 +54,12 @@ status      : Learning & Building every day
 </details>
 
 <details open>
-<summary><b>&nbsp;🌐 &nbsp;FRONTEND DEVELOPMENT</b></summary>
+<summary><b>&nbsp;🌐 &nbsp;Frontend Development</b></summary>
 <br/>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind&theme=dark" alt="frontend icons" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind&theme=dark" alt="Frontend icons" />
 
 <br/><br/>
 
@@ -72,19 +69,19 @@ status      : Learning & Building every day
 <img src="https://img.shields.io/badge/React.js-0d1117?style=for-the-badge&logo=react&logoColor=e11d48" alt="React" />
 <img src="https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap&logoColor=e11d48" alt="Bootstrap" />
 <img src="https://img.shields.io/badge/Tailwind%20CSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=e11d48" alt="Tailwind" />
-<img src="https://img.shields.io/badge/Responsive%20Web%20Design-0d1117?style=for-the-badge&logo=responsivedesign&logoColor=e11d48" alt="Responsive" />
+<img src="https://img.shields.io/badge/Responsive%20Web%20Design-0d1117?style=for-the-badge&logo=googlechrome&logoColor=e11d48" alt="Responsive Web Design" />
 
 </div>
 <br/>
 </details>
 
 <details open>
-<summary><b>&nbsp;⚙️ &nbsp;BACKEND &amp; DATABASE</b></summary>
+<summary><b>&nbsp;⚙️ &nbsp;Backend &amp; Database</b></summary>
 <br/>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=spring,nodejs,php,laravel,mysql&theme=dark" alt="backend icons" />
+<img src="https://skillicons.dev/icons?i=spring,nodejs,php,laravel,mysql&theme=dark" alt="Backend icons" />
 
 <br/><br/>
 
@@ -102,12 +99,12 @@ status      : Learning & Building every day
 </details>
 
 <details open>
-<summary><b>&nbsp;🎨 &nbsp;DESIGNING &amp; CREATIVE</b></summary>
+<summary><b>&nbsp;🎨 &nbsp;Designing &amp; Creative</b></summary>
 <br/>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ps,ai,figma&theme=dark" alt="design icons" />
+<img src="https://skillicons.dev/icons?i=ps,ai,figma&theme=dark" alt="Design icons" />
 
 <br/><br/>
 
@@ -122,12 +119,12 @@ status      : Learning & Building every day
 </details>
 
 <details open>
-<summary><b>&nbsp;🛠️ &nbsp;TOOLS, CMS &amp; MARKETING</b></summary>
+<summary><b>&nbsp;🛠️ &nbsp;Tools, CMS &amp; Marketing</b></summary>
 <br/>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,wordpress&theme=dark" alt="tools icons" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,wordpress&theme=dark" alt="Tools icons" />
 
 <br/><br/>
 
@@ -146,7 +143,7 @@ status      : Learning & Building every day
 <br/>
 
 <!-- ============================== PROJECTS ============================== -->
-## `root@prahlad:~$ ls projects/`
+## 🚀 Featured Projects
 
 | # | Project | Description | Stack |
 |:-:|:--|:--|:--|
@@ -158,7 +155,7 @@ status      : Learning & Building every day
 <br/>
 
 <!-- ============================== ROADMAP ============================== -->
-## `root@prahlad:~$ cat roadmap.md`
+## 🗺️ Learning Roadmap
 
 ```mermaid
 flowchart LR
@@ -198,57 +195,59 @@ flowchart LR
 
 <br/>
 
-<!-- ============================== STATS ============================== -->
-## `root@prahlad:~$ github --stats`
+<!-- ============================== GITHUB ANALYTICS ============================== -->
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=prahladthakur&show_icons=true&theme=transparent&hide_border=true&title_color=e11d48&icon_color=e11d48&text_color=8b949e&bg_color=00000000" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prahladthakur&layout=compact&theme=transparent&hide_border=true&title_color=e11d48&text_color=8b949e&bg_color=00000000" alt="Top languages" />
+<img src="https://img.shields.io/github/followers/prahlad78?style=for-the-badge&logo=github&logoColor=e11d48&labelColor=0d1117&color=0d1117" alt="Followers" />
+<img src="https://img.shields.io/github/stars/prahlad78?style=for-the-badge&logo=github&logoColor=e11d48&labelColor=0d1117&color=0d1117&affiliations=OWNER" alt="Stars" />
+<img src="https://img.shields.io/github/commit-activity/y/prahlad78/prahlad78?style=for-the-badge&logo=git&logoColor=e11d48&labelColor=0d1117&color=0d1117" alt="Commit activity" />
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=prahladthakur&theme=transparent&hide_border=true&ring=e11d48&fire=e11d48&currStreakLabel=e11d48&sideLabels=8b949e&currStreakNum=8b949e&sideNums=8b949e&dates=8b949e&background=00000000" alt="Streak" />
+<img src="https://ghchart.rshah.org/e11d48/prahlad78" alt="Contribution graph" width="90%" />
 
 </div>
 
-<br/>
+<!--
+OPTIONAL: extra stats cards. These use free public servers that are often
+overloaded, so they may show an error. Remove this comment block to enable.
 
-<!-- ============================== CURRENT MISSION ============================== -->
-## `root@prahlad:~$ current_mission`
-
-```yaml
-mission:
-  - Master Core Java
-  - Master JavaScript
-  - Learn Spring Boot and Spring Framework
-  - Learn React.js
-  - Build REST APIs and backend systems
-  - Build full-stack projects
-goal: Become a professional Full-Stack Java Developer
-```
+<div align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=prahlad78&show_icons=true&theme=transparent&hide_border=true&title_color=e11d48&icon_color=e11d48&text_color=8b949e&bg_color=00000000" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prahlad78&layout=compact&theme=transparent&hide_border=true&title_color=e11d48&text_color=8b949e&bg_color=00000000" alt="Top languages" />
+</div>
+-->
 
 <br/>
 
-<!-- ============================== CONNECT ============================== -->
-## `root@prahlad:~$ ./connect.sh`
+<!-- ============================== GOALS ============================== -->
+## 🎯 Current Goals
+
+- Master **Core Java** and **JavaScript**
+- Learn **Spring Boot** and the **Spring Framework**
+- Learn **React.js**
+- Build **REST APIs** and backend systems
+- Build complete **full-stack projects**
+- Become a professional **Full-Stack Java Developer**
+
+<br/>
+
+<!-- ============================== CONTACT ============================== -->
+## 🤝 Connect With Me
+
+I'm always open to collaboration, learning from other developers and discussing new ideas.
 
 <div align="center">
 
-<a href="https://github.com/prahladthakur"><img src="https://img.shields.io/badge/GitHub-prahladthakur-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/prahlad78"><img src="https://img.shields.io/badge/GitHub-prahlad78-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/prahlad-thakur/"><img src="https://img.shields.io/badge/LinkedIn-Prahlad%20Thakur-0d1117?style=for-the-badge&logo=linkedin&logoColor=e11d48" alt="LinkedIn" /></a>
 
 <br/><br/>
 
-```text
-> connection established
-> keep building
-> keep learning
-> system status: ONLINE
-```
+<sub><i>Code. Build. Improve. Repeat.</i></sub>
 
-<sub><i>Code. Build. Break. Fix. Repeat.</i></sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:e11d48,50:3b0a14,100:0d1117&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:e11d48,50:3b0a14,100:0d1117&section=footer" width="100%" alt="Footer" />
 
 </div>
